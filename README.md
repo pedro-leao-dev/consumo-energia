@@ -30,5 +30,5 @@ $$\\text{Consumo Mensal (kWh)} = \\frac{\\text{Potência (W)} \\times \\text{Hor
 
 1\. Certifique-se de ter o Python instalado.
 
-2\. No Prompt de Comando, execute:
+2\. No terminal, execute o comando:
 
